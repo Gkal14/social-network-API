@@ -23,7 +23,7 @@ SO THAT my website can handle large amounts of unstructured data
 - Finally, run 'npm install' in the command line to install the dependencies<br>
 
 ## Usage
-To initialise the application, run the command 'npm' start
+To initialise the application, run the command 'npm start'
 
 ## License
 This repository is licensed under MIT.
